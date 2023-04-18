@@ -19,8 +19,10 @@ module.exports = {
       colors: {
               'primary': '#8C82FC',
               'secondary': '#22293E',
-
-            }
+      },
+      backgroundImage: {
+        'started': "url('../public/img/background.png')",
+      }
     },
   },
   plugins: [],
